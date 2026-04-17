@@ -1,4 +1,3 @@
-# 💫 About Me:
 I am a researcher specializing in Artificial Intelligence, Machine Learning, and intelligent data-driven systems. My research focuses on applying advanced AI techniques, including deep learning and computer vision, to complex real-world infrastructure and monitoring challenges. My work explores intelligent modeling, automated analysis, and data-driven decision-making for large-scale systems.<br><br>I am particularly interested in the integration of emerging technologies, such as generative models and advanced computational frameworks, to enhance system efficiency, predictive capabilities, and infrastructure management. I have contributed to interdisciplinary research and publications in AI-enabled intelligent systems and continue to investigate innovative approaches for improving automated monitoring and smart technology solutions.
 
 
